@@ -2,6 +2,7 @@
   "name": "profile-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jj1234321.github.io/profile-project",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
